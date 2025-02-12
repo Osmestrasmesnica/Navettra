@@ -310,7 +310,7 @@ h6 {
   .navmenu a:focus {
     color: var(--nav-color);
     padding: 18px 15px;
-    font-size: 16px;
+    font-size: 1.25rem;
     font-family: var(--nav-font);
     font-weight: 400;
     display: flex;
@@ -322,7 +322,7 @@ h6 {
 
   .navmenu a i,
   .navmenu a:focus i {
-    font-size: 12px;
+    font-size: 1rem;
     line-height: 0;
     margin-left: 5px;
     transition: 0.3s;
@@ -366,7 +366,7 @@ h6 {
   }
 
   .navmenu .dropdown ul a i {
-    font-size: 12px;
+    font-size: 1rem
   }
 
   .navmenu .dropdown ul a:hover,
@@ -399,7 +399,7 @@ h6 {
 @media (max-width: 1199px) {
   .mobile-nav-toggle {
     color: var(--nav-color);
-    font-size: 28px;
+    font-size: 2rem;
     line-height: 0;
     margin-right: 10px;
     cursor: pointer;
@@ -431,7 +431,7 @@ h6 {
     color: var(--nav-dropdown-color);
     padding: 10px 20px;
     font-family: var(--nav-font);
-    font-size: 17px;
+    font-size: 1.25rem;
     font-weight: 500;
     display: flex;
     align-items: center;
@@ -442,7 +442,7 @@ h6 {
 
   .navmenu a i,
   .navmenu a:focus i {
-    font-size: 12px;
+    font-size: 1rem;
     line-height: 0;
     margin-left: 5px;
     width: 30px;
