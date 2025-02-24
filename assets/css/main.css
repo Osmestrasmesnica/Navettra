@@ -2009,3 +2009,7 @@ section,
   background-color: #ffc107;
   /* Add your styles here */
 }
+
+.row.kontakt>* {
+  padding: 1rem;
+} 
